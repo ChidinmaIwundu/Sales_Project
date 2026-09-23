@@ -1,7 +1,7 @@
 # Sales_Project
 An interactive Excel dashboard that analyzes 3,900 retail customer purchases to show who is buying, what they buy, and how discounts and subscriptions relate to spending.
 
- Project Overview
+ Project Overview 
 
 A retail business wants to understand its customers better. This project cleans and segments the purchase data, then summarizes it in PivotTables and an interactive dashboard with slicers so a non-technical stakeholder can filter by Gender, Category, Subscription Status, and Age Group without touching a formula.
 
